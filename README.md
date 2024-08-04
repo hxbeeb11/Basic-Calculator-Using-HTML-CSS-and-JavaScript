@@ -35,8 +35,8 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. T
 ## Files
 
 - `Calculator.html`: Contains the HTML structure of the calculator.
-- `calculator.css`: Contains the CSS styles for the calculator.
-- `calculator.js`: Contains the JavaScript logic for the calculator.
+- `Calculator.css`: Contains the CSS styles for the calculator.
+- `Calculator.js`: Contains the JavaScript logic for the calculator.
 
 ## Code Explanation
 
